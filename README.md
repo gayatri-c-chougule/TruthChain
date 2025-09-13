@@ -1,7 +1,8 @@
 # 🧠 Truth Chain — AI Claim Analyzer
 
 **Live Demo:** [truthchain.live](http://3.208.253.130:8502/)  
-**Tech Stack:** Streamlit • LangGraph • OpenAI • Serper (Google) • PubMed • Arxiv • Wikipedia • Tavily
+**Tech Stack:** Streamlit • LangGraph • OpenAI • Serper (Google) • PubMed • Arxiv • Wikipedia • Tavily  
+**Video:** https://www.youtube.com/watch?v=DyRZrorQdC8  
 
 Truth Chain is an AI-powered **fact verification assistant**.  
 Users enter a factual claim (e.g., *“ChatGPT passed the bar exam in the US”*).  
