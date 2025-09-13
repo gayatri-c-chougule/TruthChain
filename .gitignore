@@ -5,3 +5,5 @@ research-helper.pem
 Archive/
 .vscode/
 Evaluation/__pycache__/
+DATA/video/
+video.tscproj
